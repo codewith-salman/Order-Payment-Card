@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
 
 ## 💳 Order Payment Card  
@@ -14,7 +13,7 @@ Designed to present order summaries and payment details in a simple, elegant, an
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="OrderPaymentCard/assets/images/desktop.png" alt="Order Payment Card Desktop View" width="100%" />
+<img src="Order%20Payment%20Card/assets/images/desktop-preview.jpg" alt="Order Payment Card Desktop View" width="100%" />
 
 The **Order Payment Card** is a reusable UI component created for checkout pages, payment flows, and e-commerce interfaces.  
 It focuses on clarity, visual hierarchy, and ease of use to help users quickly review order details before completing a payment.
