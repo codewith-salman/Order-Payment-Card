@@ -74,7 +74,6 @@ Ideal for:
 - Clear order summary presentation  
 - Well-structured typography and spacing  
 - Lightweight and easy to integrate  
-- Easy to customize styles and content  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
