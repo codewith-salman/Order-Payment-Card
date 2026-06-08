@@ -58,8 +58,7 @@ This project demonstrates your ability to design **UI components for real-world 
 Ideal for:
 - E-commerce checkout pages  
 - Payment and billing interfaces  
-- UI component libraries  
-- Dashboard card layouts  
+- UI component libraries   
 - Frontend UI practice projects  
 
 ---
