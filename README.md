@@ -62,8 +62,6 @@ Ideal for:
 - Dashboard card layouts  
 - Frontend UI practice projects  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -74,16 +72,12 @@ Ideal for:
 - Well-structured typography and spacing  
 - Lightweight and easy to integrate  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
 
 - **HTML5**  
 - **CSS3**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
