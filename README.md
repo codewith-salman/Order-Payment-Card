@@ -21,7 +21,6 @@
 <img src="Order%20Payment%20Card/images/desktop-preview.jpg" alt="Order Payment Card Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">💳 Order Payment Card</h1>
 
