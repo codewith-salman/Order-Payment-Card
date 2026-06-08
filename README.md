@@ -68,8 +68,7 @@ Ideal for:
 - Clean and modern payment card design  
 - Responsive and mobile-friendly layout  
 - Clear order summary presentation  
-- Well-structured typography and spacing  
-- Lightweight and easy to integrate  
+- Well-structured typography and spacing   
 
 ---
 
